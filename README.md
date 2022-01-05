@@ -4,6 +4,8 @@
 
 # Install
 
+<ol type='1'>
+
 <li> apt update && apt upgrade -y </li>
 
 <li> apt install git </li>
@@ -16,9 +18,10 @@
 
 <li> python tiruan.py </li>
 
+</ol>
+
 # penjelasan
 
-<legend><b><font color='orange'> welcome to IBD </font></b></legend>
 <i> sedikit penjelasan kalau script ini dibuat tanpa merecode </i>
 
 <i> script apapun. Ini juga membuktikan kalau script seperti ini </i>
