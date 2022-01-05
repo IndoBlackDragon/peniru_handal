@@ -18,6 +18,7 @@
 
 # penjelasan
 
+<legend><b><font color='orange'> welcome to IBD </font></b></legend>
 <i> sedikit penjelasan kalau script ini dibuat tanpa merecode </i>
 
 <i> script apapun. Ini juga membuktikan kalau script seperti ini </i>
